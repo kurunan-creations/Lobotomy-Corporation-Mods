@@ -6,17 +6,17 @@
 
 加入原创角色“米娅”，包含专属外观、E.G.O、E.G.O 饰品、员工台词及角色专属机制。
 
-下载：[米娅正式版 ZIP](https://github.com/kurunan-creations/Lobotomy-Corporation-Mods/releases/download/final/Mia_Mod_Final.zip)（Mia_Mod_Final.zip）
+下载：[米娅正式版 ZIP](https://github.com/kurunan/Lobotomy-Corporation-Mods/releases/download/final/Mia.zip)（Mia.zip）
 
 ## 昭宁的管理协助
 
 昭宁会在管理过程中陪在主管身边，留意员工状态、工具型异想体的危险情况和部分工作风险，并在核心抑制等特殊情况下给予相应提醒。所有提醒只提供信息，不会替主管下达或阻止指令。
 
-下载：[昭宁的管理协助正式版 ZIP](https://github.com/kurunan-creations/Lobotomy-Corporation-Mods/releases/download/final/Zhaoning_Assistance_Mod_Final.zip)（Zhaoning_Assistance_Mod_Final.zip）
+下载：[昭宁的管理协助正式版 ZIP](https://github.com/kurunan/Lobotomy-Corporation-Mods/releases/download/final/Zhaoning.zip)（Zhaoning.zip）
 
 ## 下载与说明
 
-正式 ZIP 文件与校验值在[正式版 Release](https://github.com/kurunan-creations/Lobotomy-Corporation-Mods/releases/tag/final) 页面提供。Steam 社区指南用于介绍与安装说明；具体注意事项也保存在各模组压缩包内。
+正式 ZIP 文件与校验值在[正式版 Release](https://github.com/kurunan/Lobotomy-Corporation-Mods/releases/tag/final) 页面提供。Steam 社区指南用于介绍与安装说明；具体注意事项也保存在各模组压缩包内。
 
 请保留压缩包内的目录与文件名，不要随意移动、重命名或删除运行文件。其中，米娅的技术目录名仍为“未言米娅”，这是现有运行路径的一部分。
 
