@@ -8,11 +8,11 @@
 
 下载：[米娅正式版 ZIP](https://github.com/kurunan-creations/Lobotomy-Corporation-Mods/releases/download/final/Mia_Mod_Final.zip)（Mia_Mod_Final.zip）
 
-## 赵宁的管理协助
+## 昭宁的管理协助
 
-赵宁会在管理过程中陪在主管身边，留意员工状态、工具型异想体的危险情况和部分工作风险，并在核心抑制等特殊情况下给予相应提醒。所有提醒只提供信息，不会替主管下达或阻止指令。
+昭宁会在管理过程中陪在主管身边，留意员工状态、工具型异想体的危险情况和部分工作风险，并在核心抑制等特殊情况下给予相应提醒。所有提醒只提供信息，不会替主管下达或阻止指令。
 
-下载：[赵宁的管理协助正式版 ZIP](https://github.com/kurunan-creations/Lobotomy-Corporation-Mods/releases/download/final/Zhaoning_Assistance_Mod_Final.zip)（Zhaoning_Assistance_Mod_Final.zip）
+下载：[昭宁的管理协助正式版 ZIP](https://github.com/kurunan-creations/Lobotomy-Corporation-Mods/releases/download/final/Zhaoning_Assistance_Mod_Final.zip)（Zhaoning_Assistance_Mod_Final.zip）
 
 ## 下载与说明
 
@@ -29,4 +29,3 @@
 正常的非商业使用、修改、研究和二次创作都没问题，请不要恶意篡改作者或来源署名。详细说明以压缩包内的《注意事项.txt》为准。
 
 本项目为非官方作品。
-
