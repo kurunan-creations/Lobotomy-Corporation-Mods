@@ -8,11 +8,15 @@
 
 下载：[米娅正式版 ZIP](https://github.com/kurunan/Lobotomy-Corporation-Mods/releases/download/final/Mia.zip)（Mia.zip）
 
+Steam 社区指南：[米娅｜正式版下载与安装](https://steamcommunity.com/sharedfiles/filedetails/?id=3815024247)
+
 ## 昭宁的管理协助
 
 昭宁会在管理过程中陪在主管身边，留意员工状态、工具型异想体的危险情况和部分工作风险，并在核心抑制等特殊情况下给予相应提醒。所有提醒只提供信息，不会替主管下达或阻止指令。
 
 下载：[昭宁的管理协助正式版 ZIP](https://github.com/kurunan/Lobotomy-Corporation-Mods/releases/download/final/Zhaoning.zip)（Zhaoning.zip）
+
+Steam 社区指南：[昭宁的管理协助｜正式版下载与安装](https://steamcommunity.com/sharedfiles/filedetails/?id=3814503923)
 
 ## 下载与说明
 
